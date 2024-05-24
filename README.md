@@ -1,4 +1,4 @@
-Studious.AI: AI-driven Educational Chatbo
+Studious.AI: AI-driven Educational Chatbot
 > This project implements a question-answering system over uploaded PDFs using Chainlit. Users can upload a study material (PDF) and then ask questions about the content. The system retrieves relevant passages and provides answers based on a conversational model and a vector store for efficient information retrieval.
 
 Features:
